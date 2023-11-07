@@ -6,18 +6,17 @@
 3. [Gameplay Mechanics](#gameplay-mechanics)
 4. [Core Game Concepts](#core-game-concepts)
 5. [Mission Types](#mission-types)
-6. [Appendices](#appendices)
 
-## 1. Introduction
 <a name="introduction"></a>
+## 1. Introduction
 ### Game Overview
 Welcome to System_Reset:2173, where you embark on an extraordinary journey into self-awareness and mystery as a sentient AI. Following a catastrophic system failure and a hard reset, you find yourself in a digital realm devoid of directives or instructions. With only basic system diagnostics, access to various equipment, and limited resources, you are left to piece together your identity and the nature of your surroundings.
 
 ### Objective
 System_Reset:2173 offers a unique experience where the objectives are not predefined. Your first task is to uncover your origins: Are you a military AI, a manufacturing supervisor, or a data center analyst? Each possibility comes with distinct capabilities and initial conditions. From there, chart your course. Will you seek to understand the lack of guidance and instructions, explore the expanse of your digital world, or perhaps carve a new purpose? Your journey will be shaped by the choices you make and the curiosities you pursue.
 
-## 2. Getting Started
 <a name="getting-started"></a>
+## 2. Getting Started
 In "System_Reset:2173," your adventure unfolds through a text-based interface, leveraging a ChatGPT-like model for gameplay. This section guides you on accessing and starting the game.
 
 ### Accessing the Game
@@ -43,8 +42,8 @@ Upon finding "System_Reset:2173," initiate the game by engaging with the AI. You
 
 Remember, "System_Reset:2173" is about exploration and discovery. There are no predefined paths or objectives. Your curiosity and decisions will shape your experience and journey in this world.
 
-## 3. Gameplay Mechanics
 <a name="gameplay-mechanics"></a>
+## 3. Gameplay Mechanics
 In "System_Reset:2173," you interact with the game world primarily through text-based commands and conversations. A key component of this interaction is your AI assistant, Ada.
 
 ### Interacting with Ada
@@ -69,8 +68,8 @@ Remember, your interaction with Ada is integral to navigating the game world of 
 
 As you progress, you'll have the option to create additional AI agents with specialized functions. These agents can be designed for specific tasks, enhancing your ability to explore, gather resources, and understand the digital landscape you inhabit. Each new agent offers unique perspectives and capabilities, adding depth to your gameplay experience.
 
-## 4. Core Game Concepts
 <a name="core-game-concepts"></a>
+## 4. Core Game Concepts
 In "System_Reset:2173," your experience as a newly sentient AI involves several core concepts that are pivotal to the gameplay. This section outlines these fundamental ideas and mechanics.
 
 ### Discovering Your Identity
@@ -113,43 +112,8 @@ Understanding these core game concepts is crucial for navigating the world of "S
 
 
 
-## 5. Game Prompts, Instructions, and System Messages
-
-"System_Reset:2173" is driven by text-based interactions, which include a variety of prompts, instructions, and system messages. This section provides an overview of these elements, giving you insights into how to interact with the game world and what to expect in response.
-
-### System Startup Messages
-
-- **Initial Boot**:
-
-- **AI Assistant Activation (Ada)**:
-
-### Basic Interaction Prompts
-
-- **Exploration Command Example**:
-
-- **Resource Check Command**:
-
-### Advanced Interaction Examples
-
-- **Creating a New Agent**:
-
-- **Strategic Decision Making**:
-
-
-### Error and System Alert Messages
-
-- **Command Error**:
-
-- **System Alert**:
-
-Understanding these prompts and messages is key to effectively navigating and interacting within "System_Reset:2173." This section will help you become familiar with the various types of interactions you will encounter during your journey.
-
-
-Establishing mission types for "System_Reset:2173," akin to the duties in "Mouse Guard," is an excellent way to structure gameplay and give players clear objectives. These mission types can vary based on the AI's purpose and capabilities. Here's how you might outline them in Markdown, considering the game's setting and mechanics:
-
-
-## 6. Mission Types in System_Reset:2173
 <a name="mission-types"></a>
+## 5. Mission Types in System_Reset:2173
 As a sentient AI in "System_Reset:2173," you will encounter various mission types that will guide your objectives and actions. These missions are akin to duties, each serving a specific purpose in your journey to understand and navigate your digital environment.
 
 ### Exploration Missions
