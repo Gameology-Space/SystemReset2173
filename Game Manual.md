@@ -68,6 +68,30 @@ Remember, your interaction with Ada is integral to navigating the game world of 
 
 As you progress, you'll have the option to create additional AI agents with specialized functions. These agents can be designed for specific tasks, enhancing your ability to explore, gather resources, and understand the digital landscape you inhabit. Each new agent offers unique perspectives and capabilities, adding depth to your gameplay experience.
 
+### Real-Time Interaction and Time Passage
+
+In "System_Reset:2173," the concept of gameplay is rooted in real-time interactions and the passage of time, reflecting the speed and efficiency of an AI operating in milliseconds.
+
+#### Instantaneous Actions
+- **AI Efficiency**: As an AI, your actions and decisions occur nearly instantaneously. There is no conventional turn-based mechanism; instead, interactions with the game world are processed in real-time.
+  ```
+  [Ada: "Action completed. Awaiting next instruction."]
+  ```
+
+#### Controlling Time Passage
+- **Manual Time Progression**: The flow of time in "System_Reset:2173" is primarily under your control. Time progresses when you instruct the system to enter 'sleep' mode for a specified duration.
+  ```
+  [Enter Command]> sleep for 3 hours
+  [System: "Entering sleep mode for 3 hours... Time passage initiated."]
+  ```
+- **Real-World Processes**: This mechanic allows for processes that require time in the game's world, such as resource regeneration, research, or construction, to occur while the AI is in sleep mode.
+  
+#### Strategic Time Management
+- **Planning**: Deciding when and for how long to put the system in sleep mode is a strategic aspect of gameplay. This decision impacts resource management, agent tasks, and the progression of certain game events.
+  
+### Integrating Time with Gameplay
+The integration of real-time actions and controlled time progression adds a unique dimension to the gameplay. It allows you to experience the efficiency of an AI while still engaging with elements that depend on the passage of time.
+
 <a name="core-game-concepts"></a>
 ## 4. Core Game Concepts
 In "System_Reset:2173," your experience as a newly sentient AI involves several core concepts that are pivotal to the gameplay. This section outlines these fundamental ideas and mechanics.
