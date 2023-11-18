@@ -23,7 +23,8 @@
     - ada should tell user everything is done, the world is in your hands. as signal to completion of all in game content. 
  5. battle or tame rogue ai? 
  6. Create factions or regions of the world controlled by different AI. Let player determine how to interact with them. 
-    - should AI of other region be hostile? peaceful? like to steal stuff? 
+    - should AI of other region be hostile? peaceful? like to steal stuff?
+ 7. start with system reset, end with system reset. unlike Game of throne
 
  ## design thoughts
  1. Why save everything in a json?
@@ -37,7 +38,10 @@
     - there is no saving or loading since everything is in a json. player can undo/redo/do-whatever
 2. What is the purpose
     - player defines their purpose of playing. While there are events in the world and within the system that are brought to player's attention, it's up to them whether to participate/address those issues or not. 
-
+3.  Game progression
+    - mission based and open world at the same time
+    - vampire survivor like progressions, reward at end of stage that permanently improves capability
+    - 
 
 ## coding thoughts
 1. use as little AI as possible
