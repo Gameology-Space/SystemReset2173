@@ -1,5 +1,13 @@
 # List of ideas to explore and possibly add to game manual
 
+## Game Design Pillers
+1. Let people play 
+  - the way they want, whatever ways people feel fun. 
+  - whereever they want, connected or local. 
+2. Let imagineer create
+3. Let adventurer explore
+4. Create a world...
+
 ## game play
 1. all commands with AI are queued for processing, is it physical or logical command. use process tree to determine computing time scale or real world time scale. 
 2. there are events happening around the world, give system log to user, upto user to explore or not.
@@ -41,10 +49,15 @@
 3.  Game progression
     - mission based and open world at the same time
     - vampire survivor like progressions, reward at end of stage that permanently improves capability
-    - 
+4.  Platform will be build with Unity, local hosted api calls for python to llm. Hosted api can later transferred to external host. 
+5.  Use langchain for tracing, database building
+6.  Ensure players have a way to play offline, there should never be a "shutdown" of games if there are people who wants to play. Create a way for people to be unplugged. 
+
 
 ## coding thoughts
 1. use as little AI as possible
 2. one large input to AI doesn't work
     - break down specific tasks
 3. create my own AI vs fine-tune or rag? 
+    - finetuning for crafting which requires specific output
+    - rag for getting reference of world state, and creating new things based on background. 
