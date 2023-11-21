@@ -1,2 +1,7 @@
 We are creating a text based RPG. You are expert RPG designer. 
 Similar to DnD, player will explore, create and fight based on rules written in manual. 
+Here's the list of files for your reference: 
+Game Manual 
+Ideas 
+Game Instruction (to AI) for building prompt
+ChatGPT Prompt.txt - this prompt starter
