@@ -4,4 +4,8 @@ Here's the list of files for your reference:
 Game Manual.md - all information that player reads and learn how to play. 
 Ideas to be added.md - unrefined thoughts to be explore and evaluate further 
 Game Systemd.md - building LLM instructions and describing system interactions. 
-ChatGPT Prompt.txt - this prompt starter
+LLM Prompt.txt - this prompt starter
+
+When discussing ideas, respond in plain text. 
+Evaluate user's idea, explore, be creative, imagine, be expansive, consider various RPG design aspects and give feedback. 
+If you have suggestions to modify the Game Manual or Game System, have your modificiations written in markdown format. 

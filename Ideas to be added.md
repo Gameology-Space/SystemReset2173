@@ -2,14 +2,16 @@
 
 ## Game Design Pillers
 1. Let people play 
-  - the way they want, whatever ways people feel fun. 
-  - whereever they want, connected or local. 
+   - the way they want, whatever ways people feel fun. 
+   - whereever they want, connected or local. 
+   - make it easy to add/remove content and rules
 2. Let imagineer create
 3. Let adventurer explore
 4. Create a world...
 
 ## game play
 1. all commands with AI are queued for processing, is it physical or logical command. use process tree to determine computing time scale or real world time scale. 
+    - player can switch between computing time and real time
 2. there are events happening around the world, give system log to user, upto user to explore or not.
     - create guided missions
         - find source of reset
@@ -52,6 +54,8 @@
 4.  Platform will be build with Unity, local hosted api calls for python to llm. Hosted api can later transferred to external host. 
 5.  Use langchain for tracing, database building
 6.  Ensure players have a way to play offline, there should never be a "shutdown" of games if there are people who wants to play. Create a way for people to be unplugged. 
+7.  in the future, multiplayer in the world start at the same time and ends by season. 
+8. Can I design the whole game to be keyboard only control, no mouse. 
 
 
 ## coding thoughts
