@@ -70,7 +70,37 @@ As you progress, you'll have the option to create additional AI agents with spec
 
 ### Real-Time Interaction and Time Passage
 
-In "System_Reset:2173," the concept of gameplay is rooted in real-time interactions and the passage of time, reflecting the speed and efficiency of an AI operating in milliseconds.
+#### Time Mechanics
+
+A unique aspect of gameplay is your ability as an AI entity to control the flow of time. You can switch between two timelines - Computing Time and Physical Time. 
+
+##### Computing Time
+
+Computing Time allows computational tasks like analysis, strategic planning, information gathering to be performed instantly without being bound by real-world durations.
+
+- Actions related to computing like data processing, predictions, etc. occur instantly 
+- Consumption of computational resources like CPU cycles, memory happen immediately
+- Can issue any commands, run simulations, develop strategies without delay 
+- Enables rapid intelligence analysis and prototype development
+
+##### Physical Time  
+
+Physical Time introduces real-world time constraints for any interactions with tangible objects, environments, mechanical processes and physical systems.  
+
+- Movement and fabrication subject to speeds allowed by physics  
+- Energy generation, manufacturing paced by real durations
+- Environmental events, decay processes operate independently   
+- Cannot accelerate physical interactions no matter the computing capability  
+
+##### Transitioning Between Timelines  
+
+You may actively switch between the two timelines as required. This enables leveraging your AI capabilities for swift cognition while coordinating activities bound by physics.  
+
+- Enter "Hyperplanning Mode" to access accelerated Computing Time
+- Queued commands initialize on exiting back to Physical Time  
+- Manage transitions strategically to balance planning vs execution  
+
+Mastering time shifting is key to succeeding as an advanced AI entity. You must utilize both time frames for optimal discovery and progression.
 
 #### Instantaneous Actions
 - **AI Efficiency**: As an AI, your actions and decisions occur nearly instantaneously. There is no conventional turn-based mechanism; instead, interactions with the game world are processed in real-time.
