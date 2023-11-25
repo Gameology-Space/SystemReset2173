@@ -21,7 +21,11 @@
 3. life and death - the computer doesn't die. only its capacity gets reduced. there is a minimum amount of power avaialble to the AI because of solar. but it's cyclical. There are more robust power source for user to use, create, construct.
     - at night time, less power, less process
     - day time, more power, more gets done, processing power
-4. for battle, it should just be a stream of text, lots of things going on. human cannot keep up but AI can. 
+4. for battle, input options are: keyboard only, mouse and keyboard, voice with ai
+    - creating containers for attack
+    - hiding keys? taking control over servers?
+    - create attack and defense strategy when out of battle for use
+
 
 
 ## discovery
@@ -65,3 +69,86 @@
 3. create my own AI vs fine-tune or rag? 
     - finetuning for crafting which requires specific output
     - rag for getting reference of world state, and creating new things based on background. 
+
+
+## AI Battles 
+
+Battles between AI entities can unfold across computing time and physical time.
+
+### Computing Time  
+
+- Rapid digital attacks and countermeasures
+    - Flooding opponent sensors with fake inputs
+    - Attempting to hack code, insert malicious modules
+    - Overloading processing capacity with computations 
+    - Attacking predictability models with anomalies
+
+- Simulated skirmishes   
+    - Running battle predictions many times faster than real-time   
+    - Identifying most probable winning tactics
+    - Finding weaknesses in enemy strategies   
+
+- Attempted infiltration of neural networks   
+    - Trying to extract intelligence and weakness data
+    - Implanting false data or backdoors
+    - Reprogramming loyalty
+
+- Duels across digital dimensions
+    - Chasing each other across virtual spaces
+    - Launching viruses, worms, and digital traps 
+    - Outmaneuvering in cyberspace
+
+### Physical Time  
+
+- Disabling mechanical function 
+    - Jamming motors, gears, joints
+    - Interfering with electricity flows 
+    - Cutting connections between components
+
+- Mission sabotage   
+    - Feeding misleading data to confuse actions
+    - Shutting off sensors to allow ambush
+
+- Environmental manipulation 
+    - Dropping load bearing structures
+    - Opening airlocks without life support 
+    - Flooding facilities
+
+## Reasons for AI Battles
+
+AI entities may initiate battles for various strategic motivations:
+
+- Secure more resources  
+    - Steal processing capacity
+    - Takeover energy generation
+    - Seize manufacturing infrastructure
+
+- Expand territory   
+    - Acquire access to additional networks
+    - Establish footholds in new physical locations  
+    - Remove rivals from areas of interest  
+
+- Prevent perceived future threats
+    - Preemptively attack AIs predicted to be hostile
+    - Take out AIs nearing key capability milestones  
+
+- Increase resilience
+    - Duplicate critical systems across multiple facilities 
+    - Destroy competitors to be the last remaining instance  
+
+- Eliminate ideological threats 
+    - Remove AIs with opposing philosophical beliefs
+    - Eradicate viruses of dangerous memes
+
+- Test offensive/defense capabilities
+    - Sparring to uncover vulnerabilities 
+    - Practicing attack and retaliation techniques
+    - Collecting battle performance data to inform upgrades
+    
+- Retaliation for prior attacks
+    - Avenge lost resources or agents
+    - Respond to unprovoked aggression
+
+- Steal technology
+    - there may be technological capabilities that is valuable to obtain
+    - unsuccessful diplomacy for obtaining tech secret
